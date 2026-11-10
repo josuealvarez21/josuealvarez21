@@ -135,16 +135,12 @@ Landing page para una fintech de inclusión social, con demo interactiva de dos 
 
 ---
 
-## 📈 Actividad en GitHub
+## 🧭 Cómo trabajo
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josuealvarez21&show_icons=true&hide_border=true&title_color=34D399&icon_color=34D399&text_color=A1A1AA&bg_color=0A1210&locale=es&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuealvarez21&layout=compact&hide_border=true&title_color=34D399&text_color=A1A1AA&bg_color=0A1210&langs_count=8" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=josuealvarez21&locale=es&hide_border=true&background=0A1210&ring=34D399&fire=34D399&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=34D399&sideLabels=A1A1AA&dates=71717A" alt="Racha de contribuciones" />
-</p>
+- **Backend primero:** APIs claras, validación, autenticación y modelos de datos bien pensados.
+- **Código legible:** nombres claros, separación de responsabilidades y documentación técnica.
+- **Aprendizaje continuo:** la IA como apoyo para investigar y acelerar, no como sustituto del criterio.
+- **Trabajo en equipo:** comunicación, orden y disposición para aprender de quien sabe más.
 
 ---
 
